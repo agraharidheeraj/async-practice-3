@@ -9,7 +9,7 @@ You have a server which stores a directory structure. The task is to replicate t
 1. Clone the project
 
 ```sh
-git clone https://github.com/pixyj/mb-async-live-review-3 async_live_review
+git clone [https://github.com/agraharidheeraj/async-practice-3.git]
 ```
 
 2. cd to the `async_live_review` directory
