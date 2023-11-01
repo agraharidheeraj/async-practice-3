@@ -9,13 +9,13 @@ You have a server which stores a directory structure. The task is to replicate t
 1. Clone the project
 
 ```sh
-git clone [https://github.com/agraharidheeraj/async-practice-3.git]
+git clone https://github.com/agraharidheeraj/async-practice-3.git
 ```
 
 2. cd to the `async_live_review` directory
 
 ```sh
-cd async_live_review
+cd async-review-3
 ```
 
 3. Install dependencies
